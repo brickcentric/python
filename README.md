@@ -27,4 +27,4 @@ Einfach oben in der Ecke da ist ein Plus(+), im Menu klickt ihr auf `New Reposit
 
 ## Aufgaben
 ### Aufgabe 1: Schreibe ein Hello World Programm
-Das Programm soll eine Funktion `hello()` haben und über die Main Bedinung `if __name__ == "__main__":` aufgrufen werden. Die Funtion soll den `String` "Hello World" auf der Konsole ausgeben.
+Das Programm soll eine Funktion `def hello():` haben und über die Main Bedinung `if __name__ == "__main__":` aufgrufen werden. Die Funtion soll den `String` "Hello World" auf der Konsole ausgeben.
