@@ -1,4 +1,4 @@
-# Infos zu den python Übungen
+# Der Weg zum `Coder`
 1. Ihr solltet alle ein Account bei [Github](https://www.github.com) erstellen und mir eueren Username zusenden.
 2. Auf Github könnt ihr ein Repository mit dem namen `uebung` anlegen, hier werden euere Programme später landen. Oben in der Ecke ist ein Plus(+) da im Menu klickt ihr auf `New Repository` hier müsst ihr nur den Namen eintragen und unten auf `Create Repository` drücken.
 3. Die die Programme unter Software auf euerem Rechner installieren.
