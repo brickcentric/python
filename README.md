@@ -5,10 +5,10 @@ Einfach oben in der Ecke da ist ein Plus(+), im Menu klickt ihr auf `New Reposit
 3. Die Programme unter Software auf euerem Rechner installieren.
 4. Das leere Repository auf euren Rechner `clonen` ich zeige euch das.
 ## Software
-* [Python](https://www.python.org/downloads) Einfach installieren und bei allen Fragen weiter drücken 
-* [Github Desktop](https://desktop.github.com) Einfach installieren und starten. Hier könnt ihr euch mit dem Github Account anmelden
-* [Git](https://git-scm.com/downloads) Installieren indem ihr einfach immer weiter drückt. Bis die installation abgeschossen ist.
-* [PyCharm](https://www.jetbrains.com/pycharm-edu/download/index.html) Auch nur runterladen und installieren, immer weiter drücken bis es installiert ist. Beim Einrichten von Python und Git helfe ich euch dann.
+* [Python](https://www.python.org/downloads) Damit euer PC Python überhaubt kennt. Einfach installieren und bei allen Fragen weiter drücken 
+* [Github Desktop](https://desktop.github.com) Eine Deskop Programm für Github. Einfach installieren und starten. Hier könnt ihr euch mit dem Github Account anmelden
+* [Git](https://git-scm.com/downloads) Damit ihr direkt aus PyCharm mit Github interagieren könnt. Installieren indem ihr einfach immer weiter drückt. Bis die installation abgeschossen ist.
+* [PyCharm](https://www.jetbrains.com/pycharm-edu/download/index.html) Das ist euere Entwicklungsumgebung für Python. Auch nur runterladen und installieren, immer weiter drücken bis es installiert ist. Beim Einrichten von Python und Git helfe ich euch dann.
 
 ## Hilfe und Tutorials
 * [You Tube Tutorial](https://www.youtube.com/playlist?list=PLNmsVeXQZj7q0ao69AIogD94oBgp3E9Zs)
