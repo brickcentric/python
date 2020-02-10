@@ -10,7 +10,7 @@ Einfach oben in der Ecke da ist ein Plus(+), im Menu klickt ihr auf `New Reposit
 * [Git](https://git-scm.com/downloads) Damit ihr direkt aus PyCharm mit Github interagieren könnt. Installieren indem ihr einfach immer weiter drückt. Bis die installation abgeschossen ist.
 * [PyCharm](https://www.jetbrains.com/pycharm-edu/download/index.html) Das ist euere Entwicklungsumgebung für Python. Auch nur runterladen und installieren, immer weiter drücken bis es installiert ist. Beim Einrichten von Python und Git helfe ich euch dann.
 
-## Tutorials und eiterführendes
+## Tutorials und Weiterführendes
 ### YouTube
 * [YouTube Tutorial](https://www.youtube.com/playlist?list=PLNmsVeXQZj7q0ao69AIogD94oBgp3E9Zs)
 
