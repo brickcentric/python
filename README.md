@@ -1,5 +1,5 @@
 # Der Weg zum `Coder`
-1. Ihr solltet alle ein Account bei [Github](https://www.github.com) erstellen und mir eueren Username zusenden.
+1. Ihr solltet alle ein Account bei [Github](https://www.github.com) erstellen und mir euren Username zusenden.
 2. Auf Github könnt ihr ein Repository mit dem Namen `uebung` anlegen, hier werden später euere Programme landen.
 Einfach oben in der Ecke da ist ein Plus(+), im Menu klickt ihr auf `New Repository` hier müsst ihr den Namen eintragen und unten auf `Create Repository` drücken.
 3. Die Programme unter Software auf euerem Rechner installieren.
@@ -10,11 +10,28 @@ Einfach oben in der Ecke da ist ein Plus(+), im Menu klickt ihr auf `New Reposit
 * [Git](https://git-scm.com/downloads) Damit ihr direkt aus PyCharm mit Github interagieren könnt. Installieren indem ihr einfach immer weiter drückt. Bis die installation abgeschossen ist.
 * [PyCharm](https://www.jetbrains.com/pycharm-edu/download/index.html) Das ist euere Entwicklungsumgebung für Python. Auch nur runterladen und installieren, immer weiter drücken bis es installiert ist. Beim Einrichten von Python und Git helfe ich euch dann.
 
-## Hilfe und Tutorials
-* [You Tube Tutorial](https://www.youtube.com/playlist?list=PLNmsVeXQZj7q0ao69AIogD94oBgp3E9Zs)
+## Tutorials und eiterführendes
+### YouTube
+* [YouTube Tutorial](https://www.youtube.com/playlist?list=PLNmsVeXQZj7q0ao69AIogD94oBgp3E9Zs)
+
+### Einsteiger Tutorials (DE)
 * [Einführung](https://tutorial.djangogirls.org/de/python_introduction/)
 * [Tutorial](https://py-tutorial-de.readthedocs.io/de/python-3.3/)
-* [Offizelle Python Doku (EN)](https://docs.python.org/3/)
+
+### Offizielles 
+* [Offizelle Python Seite (EN)](https://docs.python.org/3/)
+
+### Bücher
+* [Sehr gutes und interessantes Buch für den Einstieg](https://www.amazon.de/dp/3836265141/ref=cm_sw_em_r_mt_dp_U_OtBqEbCGVCZHA)
+* [Mit Python Mindcraft programmieren](https://www.amazon.de/dp/3864905184/ref=cm_sw_em_r_mt_dp_U_nEBqEb50FG1V3)
+* [Eigene einfache Spiele entwickeln mit Python](https://www.amazon.de/dp/3864904927/ref=cm_sw_em_r_mt_dp_U_tEBqEbWXC3D26)
+
+### Python und Roboter
+* [MitCozmo programmieren](https://github.com/anki/cozmo-python-sdk)
+* [Mindstorm EV3 - Python API](https://education.lego.com/de-de/support/mindstorms-ev3/python-for-ev3)
+
+### Minstorm mit Python
+* [Getting started with MindecraftPi](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi)
 
 ## Git
 Eine kurze Einführung in die Begrifflichkeiten von Git/Github. `Git` ist eine Versionsverwaltung für Programme, sie dient der Speicherung und der Zusammenarbeit mit anderen Entwicklern, Jeder Versionsstand eines Programmes ist hiermit einsehbar. Github ist weltweit das größte Portal für `Git` indem Softwareentwickler gemeinsam an Software arbeiten und sich austauschen. 
@@ -31,7 +48,7 @@ Ein Branch ist ein neuer Zeig in euerem Repository, in einem Branch entwickelt m
 ### merge
 Ein Merge fügt 2 Branches wieder zu Einem zusammen, falls es zwischenzeitlich Änderungen an der selben Stelle gegeben hat muss man die Mergekonflikte erst auflösen.
 ### pull request
-Ein Pull Request eine eine Anfrage einen Branch wieder mit dem Ursprungsbranch zusammen zu führen. Hier fragt man einen anderen Entwicker und dieser begutachtet die Arbeit, gibt ggf. seine Anmerkungen oder er sagt "alles gut kannste mergen" ;)
+Ein Pull Request eine eine Anfrage einen Branch wieder mit dem Ursprungsbranch zusammen zu führen. Hier fragt man einen anderen Entwicker in dem man ein PR(Pull Request) an ihn stellt. Dieser begutachtet die Arbeit, gibt ggf. seine Anmerkungen oder er sagt "alles gut kannste mergen" ;)
 ## Aufgaben
 ### Aufgabe 1: Schreibe ein Hello World Programm
 Das Programm soll eine Funktion `def hello():` haben und über die Main Bedinung `if __name__ == "__main__":` aufgrufen werden. Die Funtion soll den `String` "Hello World" auf der Konsole ausgeben.
