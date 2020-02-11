@@ -53,3 +53,15 @@ Ein Pull Request eine eine Anfrage einen Branch wieder mit dem Ursprungsbranch z
 ## Aufgaben
 ### Aufgabe 1: Schreibe ein Hello World Programm
 Das Programm soll eine Funktion `def hello():` haben und über die Main Bedinung `if __name__ == "__main__":` aufgrufen werden. Die Funtion soll den `String` "Hello World" auf der Konsole ausgeben.
+### Aufgabe 2: Taschenrechner (Bedingungen)
+0. **git:** Erstelle einen Branch mit dem Namen `uebung2` (ich zeige euch wie das geht)
+1. Schreibe eine Konsolenprogram das dein Alter als Eingabe erwartet und ausgibt ob die Minderjähig oder Volljährig bist.
+    1. Erweitere die Aufteilung mit den Ausgaben: *Baby*, *Kleinkind*, *Kind*, *Teenie*
+    2. **git:** Commite deine Änderungen mit eine passenden commit Nachricht. Pushe es dann nach Github*
+2. Schreibe ein Taschenrechner der 2 Zahlen als Eingabe verlangt diese addiert und das Ergebnis dem Benutzer ausgibt. **git: commite jede Teilaufgabe mit einer entsprechenden commit Meldung**
+    1. Schreibe den Taschenrechner so um das dieser auch subtrahieren, multiplizieren und dividieren kann. **Hinweis:** Achte auf die Nachkommazahlen.
+    2. Schreibe für jede Rechenart eine eingene Funktion die 2 Zahlen entgegen nimmt und das Ergebnis zurückliefert.
+3. **git:** Commite und pushe deine letzten Änderungen und erstelle auf Github einen Pull Request den du mir als Reviewer zuteilst
+
+  
+
