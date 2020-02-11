@@ -1,5 +1,6 @@
 # Der Weg zum `Coder`
 1. Ihr solltet alle ein Account bei [Github](https://www.github.com) erstellen und mir euren Username zusenden.
+
 2. Auf Github könnt ihr ein Repository mit dem Namen `uebung` anlegen, hier werden später euere Programme landen.
 Einfach oben in der Ecke da ist ein Plus(+), im Menu klickt ihr auf `New Repository` hier müsst ihr den Namen eintragen und unten auf `Create Repository` drücken.
 3. Die Programme unter Software auf euerem Rechner installieren.
