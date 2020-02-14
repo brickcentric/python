@@ -3,6 +3,7 @@
 ### Aufgabe 1: Schreibe ein Hello World Programm
 Das Programm soll eine Funktion `def hello():` haben und über die Main Bedinung `if __name__ == "__main__":` aufgrufen werden. Die Funtion soll den `String` "Hello World" auf der Konsole ausgeben.
 ### Aufgabe 2: Taschenrechner (Bedingungen)
+Hilfe weitere Erklärungen zu den Lösungen findet ihr [hier](hilfe/uebung_2.md)
 0. **git:** Erstelle einen Branch mit dem Namen `uebung2` (ich zeige euch wie das geht)
 1. Schreibe eine Konsolenprogram das dein Alter als Eingabe erwartet und ausgibt ob die Minderjähig oder Volljährig bist.
     1. Erweitere die Aufteilung mit den Ausgaben: *Baby*, *Kleinkind*, *Kind*, *Teenie*
