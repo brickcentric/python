@@ -1,3 +1,4 @@
+## Hilfe und Erklärung für Übung 2
 ### Bedinungen 
 Eine Bedingung ist eine Verzweigung in euerem Programmfluss
 ```
