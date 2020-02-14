@@ -12,7 +12,7 @@ Hilfe weitere Erklärungen zu den Lösungen findet ihr [hier](hilfe/uebung_2.md)
 2. Programmiere ein Taschenrechner der 2 Zahlen als Eingabe verlangt, diese addiert und das Ergebnis dem Benutzer ausgibt. **git:** commite jede Teilaufgabe mit einer entsprechenden commit Nachricht
     1. Schreibe den Taschenrechner so um das dieser auch subtrahieren, multiplizieren und dividieren kann. **Hinweis:** Achte auf die Nachkommazahlen.
     2. *(Zusatzaufgabe)* Schreibe für jede Rechenart eine eigene Funktion die 2 Zahlen entgegen nimmt und das Ergebnis zurückliefert.
-3. **git:** Commite und pushe deine letzten Änderungen und erstelle auf Github einen Pull Request den du mir als Reviewer zuteilst
+3. **git:** Commite und pushe deine letzten Änderungen und erstelle auf Github einen Pull Request den du mir/`marbon` als Reviewer zuteilst
 
 ## Vorbereitung / Einrichtung
 1. Ihr solltet alle ein Account bei [Github](https://www.github.com) erstellen und mir euren Username zusenden.
