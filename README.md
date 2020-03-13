@@ -3,7 +3,7 @@
 ### Aufgabe 1: Schreibe ein Hello World Programm
 Das Programm soll eine Funktion `def hello():` haben und über die Main Bedinung `if __name__ == "__main__":` aufgrufen werden. Die Funtion soll den `String` "Hello World" auf der Konsole ausgeben.
 ### Aufgabe 2: Taschenrechner (Bedingungen)
-Hilfe weitere Erklärungen zu den Lösungen findet ihr [hier](hilfe/uebung_2.md)
+**Hilfe**: Erklärungen zu den Lösungen findet ihr [hier](hilfe/uebung_2.md)
 
 **git:** Erstelle einen Branch mit dem Namen `uebung2` (ich zeige euch wie das geht)
 1. Schreibe ein Konsolenprogram das dein Alter als Eingabe erwartet und ausgibt ob du Minderjähig oder Volljährig bist.
@@ -13,6 +13,39 @@ Hilfe weitere Erklärungen zu den Lösungen findet ihr [hier](hilfe/uebung_2.md)
     1. Schreibe den Taschenrechner so um das dieser auch subtrahieren, multiplizieren und dividieren kann. **Hinweis:** Achte auf die Nachkommazahlen.
     2. *(Zusatzaufgabe)* Schreibe für jede Rechenart eine eigene Funktion die 2 Zahlen entgegen nimmt und das Ergebnis zurückliefert.
 3. **git:** Commite und pushe deine letzten Änderungen und erstelle auf Github einen Pull Request den du mir/`marbon` als Reviewer zuteilst
+### Aufgabe 3: Schnick-Schnack-Schuck
+In dieser Aufgabe wollen wir ein kleines und ich hoffe allen bekanntes Spiel programmieren. Dazu werden wir all das erlernte aus den vorherigen Übungen benötigen. 
+* Ausgaben: Wir steuern den Spielfluss über verschiendene Konsolenausgaben
+* Eingaben: Wir nehmen den Zug des Spielers auf
+* Bedinungen: Wir prüfen ob Computer oder Spieler die Runde gewonnen hat.
+* Schleife **(Neu)**: Wir wiederholen so lange eine neue Spielrunde bis der Spieler bewusst abbricht.
+* Funktion: wir nutzen eine Standartfunktion für Zufallszahlen. Wir benötigen ggf auch eine eigene kleine Funktion.
+*Bitte Denkt dabei jeden euerer Zwischenstände zu commiten (git)*
+
+1. Wir beginnen zuerst *nur* mit **Schere** und **Papier**. 
+Erstellt eine Endlossschleife (`while True:`), in dieser Schleife fragt ihr nach der Spielereingabe (`1=Schere, 2=Papier`). 
+Für die Wahl des Computers benötigt ihr Zufahlszahlen (`random`) hierfür gibt es in der Standardbibliothek verschiedenste Funktionen. Im ersten Schritt benötigt ihr zufällige Ganzzahlen (`int`) und genau 1 oder 2. `randint(1,2)`
+Dannach prüft ihr ob der Spieler oder der Computer die Runde gewonnen habt und gibt das Ergebnis aus. 
+Der Schleifendurchlauf ist beendet und eine weitere Runde beginnt.
+[Weitere Hilfe](hilfe/uebung_3.md)
+
+2. Beendet das Spiel wenn der Spieler anstelle einer Zahl ein `x` eingibt (`exit(0)`).
+
+3. Erweitert das Spiel um Stein (`3`) und Brunnen (`4`).
+
+4. Gebt am Ende so etwas aus: 
+`Herzlichen Glückwunsch du hast gewonnen` 
+`Spieler: Schere`   
+`Computer: Papier`
+Hinweis: Eine Funktion die ein `int` entgegennimmt und dann das jeweilige Spielsymbol als `string` zurückgibt kann hier hilfreich sein.
+
+5. Zahlt bei jeder Runde die Ergebnisse und gebt am Ende einer Runde den Zwischenstand aus:
+`Spieler: 5  Computer: 3`
+
+6. Gebt mal Zahlen wie `6` , `1000`, `hook` ein und schaut was passiert. Versucht jetzt Programmfehler durch Falscheingaben zu vermeinden und zeigt dem Spieler stattdessen entsprechende Fehlertexte an.
+    1. Nur gültige Zahlen `1-4` erlauben.
+    2. Nur das Sonderzeichen `x` erlauben 
+
 
 ## Vorbereitung / Einrichtung
 1. Ihr solltet alle ein Account bei [Github](https://www.github.com) erstellen und mir euren Username zusenden.
