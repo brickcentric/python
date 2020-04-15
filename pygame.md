@@ -1,6 +1,6 @@
 ## pygame
 Mit `pygame` steht euch eine Python Bibliothek zur Verfügung um grafische Spiele mit Python zu entwickeln. Mit pygame werden euch die nötigen Basics abgenommen die man für die Entwicklung von Spielen benötigt. Das ganze ist jedoch nicht geschenkt, ich erwarte nicht das ihr mit euren aktuellen Wissensstand selbständig Spiele entwicklen könnt. Meine Idee ist wir fangen mit einem Tutorial an welches ihr selbständig oder in 2er Gruppen durcharbeiten sollt.
-Copy/Paste oder besser abschreiben der Lösugen ist hierbei erwünscht, vergesst aber nicht die Kommentare zu **genau** lesen  imd versuchen zu verstehen, sobald ihr was lauffähiges habt, einfach mal Dinge auszuprobieren oder das Spiel weiterentwickeln.    
+Copy/Paste oder besser abschreiben der Lösugen ist hierbei erwünscht, vergesst aber nicht die Kommentare **genau** zu lesen und versucht sie zu verstehen. Sobald ihr etwas Lauffähiges habt, einfach mal Sachen ausprobieren oder das Spiel weiter entwickeln.    
 
 ### Vorbereitung
 #### Kommunikation
@@ -14,7 +14,7 @@ Folgende Lösungen würde ich vorschlagen:
 Ihr benötigt eine vollstänig eingerichtete Entwicklungsumgebung für Python [(wie auf der Hauptseite beschrieben)](README.md) .
 In PyCharm müsst ihr die Bibliothek `pygame` wie folgt hinzufügen. 
 ![Menu Preferences ](img/pygame1.png)
-![Project Interpreter auf + drücken ](img/pygame1.png)
+![Project Interpreter auf + drücken ](img/pygame2.png)
 ### Aufgaben
 1. Versucht eine lauffähige Python Entwicklungsumgebung an den Start zu bringen, falls ihr dabei Probleme habt fragt jemanden aus der Gruppe oder mich per WhatsApp direkt Nachricht. Wir können dann bespielsweise ein Discord Meeting Termin vereinbaren.
 2. Lest euch bitte mal folgendes [Pygame Tutorial](https://www.spieleprogrammierer.de/wiki/Pygame-Tutorial) genau durch und versucht die Beispiele bei euch ans laufen zu bekommen. 
