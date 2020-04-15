@@ -1,6 +1,6 @@
 ## pygame
-Mit pygame steht euch eine Python Bibliothek zur Verfügung um grafische Spiele mit Python zu entwickeln. Mit pygame werden euch die nötigen Basics abgenommen die man für die Entwicklung von Spielen benötigt. Das ganze ist jedoch  nicht geschenkt, ich erwarte nicht das ihr mit euren aktuellen Wissenstand selbständig Spiele entwicklen könnt. Meine Idee ist wir fangen mit einem Tutorial an welches ihr selbständig oder in 2er Gruppen durcharbeiten sollt.
-Copy/Paste oder besser abschreiben der Lösugen ist hierbei erwünscht, vergesst aber nicht die Kommentare zu lesen versuchen zu verstehen und sobald was läuft einfach mal Dinge auszuprobieren oder das Spiel weiterzuentwickeln.    
+Mit `pygame` steht euch eine Python Bibliothek zur Verfügung um grafische Spiele mit Python zu entwickeln. Mit pygame werden euch die nötigen Basics abgenommen die man für die Entwicklung von Spielen benötigt. Das ganze ist jedoch nicht geschenkt, ich erwarte nicht das ihr mit euren aktuellen Wissensstand selbständig Spiele entwicklen könnt. Meine Idee ist wir fangen mit einem Tutorial an welches ihr selbständig oder in 2er Gruppen durcharbeiten sollt.
+Copy/Paste oder besser abschreiben der Lösugen ist hierbei erwünscht, vergesst aber nicht die Kommentare zu **genau** lesen  imd versuchen zu verstehen, sobald ihr was lauffähiges habt, einfach mal Dinge auszuprobieren oder das Spiel weiterentwickeln.    
 
 ### Vorbereitung
 #### Kommunikation
@@ -15,8 +15,8 @@ Ihr benötigt eine vollstänig eingerichtete Entwicklungsumgebung für Python [(
 In PyCharm müsst ihr die Bibliothek `pygame` wie folgt hinzufügen. 
 
 ### Aufgaben
-1. Versucht eine lauffähige Python Entwicklungsumgebung an den Start zu bringen, falls ihr dabei Probleme habt fragt jemanden aus der Gruppe oder mich per WhatsApp direct message. Wir können dann bespielsweise einen Termin Discord Meeting vereinbaren.
-2. Liest euch bitte mal folgendes [Pygame Tutorial](https://www.spieleprogrammierer.de/wiki/Pygame-Tutorial) genau durch und versucht die Beispiele bei euch ans laufen zu gekommen. 
+1. Versucht eine lauffähige Python Entwicklungsumgebung an den Start zu bringen, falls ihr dabei Probleme habt fragt jemanden aus der Gruppe oder mich per WhatsApp direkt Nachricht. Wir können dann bespielsweise ein Discord Meeting Termin vereinbaren.
+2. Lest euch bitte mal folgendes [Pygame Tutorial](https://www.spieleprogrammierer.de/wiki/Pygame-Tutorial) genau durch und versucht die Beispiele bei euch ans laufen zu bekommen. 
 3. coming soon ;)
 
 
