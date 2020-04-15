@@ -1,5 +1,5 @@
 ## pygame
-Mit `pygame` steht euch eine Python Bibliothek zur Verfügung um grafische Spiele mit Python zu entwickeln. Mit pygame werden euch die nötigen Basics abgenommen die man für die Entwicklung von Spielen benötigt. Das ganze ist jedoch nicht geschenkt, ich erwarte nicht das ihr mit euren aktuellen Wissensstand selbständig Spiele entwicklen könnt. Meine Idee ist wir fangen mit einem Tutorial an welches ihr selbständig oder in 2er Gruppen durcharbeiten sollt.
+Mit [`pygame`](https://www.pygame.org) steht euch eine Python Bibliothek zur Verfügung um grafische Spiele mit Python zu entwickeln. Mit pygame werden euch die nötigen Basics abgenommen die man für die Entwicklung von Spielen benötigt. Das ganze ist jedoch nicht geschenkt, ich erwarte nicht das ihr mit euren aktuellen Wissensstand selbständig Spiele entwicklen könnt. Meine Idee ist wir fangen mit einem Tutorial an welches ihr selbständig oder in 2er Gruppen durcharbeiten sollt.
 Copy/Paste oder besser abschreiben der Lösugen ist hierbei erwünscht, vergesst aber nicht die Kommentare **genau** zu lesen und versucht sie zu verstehen. Sobald ihr etwas Lauffähiges habt, einfach mal Sachen ausprobieren oder das Spiel weiter entwickeln.    
 
 ### Vorbereitung
@@ -17,7 +17,7 @@ In PyCharm müsst ihr die Bibliothek `pygame` wie folgt hinzufügen.
 ![Project Interpreter auf + drücken ](img/pygame2.png)
 ### Aufgaben
 1. Versucht eine lauffähige Python Entwicklungsumgebung an den Start zu bringen, falls ihr dabei Probleme habt fragt jemanden aus der Gruppe oder mich per WhatsApp direkt Nachricht. Wir können dann bespielsweise ein Discord Meeting Termin vereinbaren.
-2. Lest euch bitte mal folgendes [Pygame Tutorial](https://www.spieleprogrammierer.de/wiki/Pygame-Tutorial) genau durch und versucht die Beispiele bei euch ans laufen zu bekommen. 
+2. Lest euch bitte mal folgendes [Pygame Tutorial](https://www.spieleprogrammierer.de/wiki/Pygame-Tutorial) genau durch und versucht die Beispiele bei euch ans laufen zu bekommen. Für eine erste Einführung ist das hier auch sehr hilfreicht [Grundlage pygame](https://www.python-lernen.de/pygame-tutorial.htm) und das ist die offizelle Seite von [`pygame`](https://www.pygame.org). Für die youtube Fraktion gibt es auch ein umfangreiches YouTube Tutorial das ist auf Englisch [YouTube Tutorial](https://www.youtube.com/watch?v=i6xMBig-pP4)
 3. coming soon ;)
 
 
