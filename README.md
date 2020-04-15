@@ -45,19 +45,18 @@ Hinweis: Eine Funktion die ein `int` entgegennimmt und dann das jeweilige Spiels
 6. Gebt mal Zahlen wie `6` , `1000`, `hook` ein und schaut was passiert. Versucht jetzt Programmfehler durch Falscheingaben zu vermeinden und zeigt dem Spieler stattdessen entsprechende Fehlertexte an.
     1. Nur gültige Zahlen `1-4` erlauben.
     2. Nur das Sonderzeichen `x` erlauben 
-### Aufgabe 4: Game programming
-Hiermit möchte ich euch anleiten gemeinsam ein grafisches Jump & Run Game mit pygame zu entwicklen.[hier gehts los](hilfe/pygame.md) 
+### Game programming mit pygame
+Ich euch anleiten und unterstüthen gemeinsam ein grafisches Jump & Run Game mit pygame zu entwicklen.[hier gehts los](pygame.md) 
 
 ## Vorbereitung / Einrichtung
 1. Ihr solltet alle ein Account bei [Github](https://www.github.com) erstellen und mir euren Username zusenden.
-2. Auf Github könnt ihr ein Repository mit dem Namen `uebung` anlegen, hier werden später euere Programme landen.
+2. Auf Github könnt ihr ein Repository mit dem Namen knackigen Namen anlegen, hier wird später euer Programm landen.
 Einfach oben in der Ecke da ist ein Plus(+), im Menu klickt ihr auf `New Repository` hier müsst ihr den Namen eintragen und unten auf `Create Repository` drücken.
 3. Die Programme unter Software auf euerem Rechner installieren.
 4. Das leere Repository auf euren Rechner `clonen` ich zeige euch das.
 ## Software
 * [Python](https://www.python.org/downloads) Damit euer PC Python überhaubt kennt. Einfach installieren und bei allen Fragen weiter drücken 
-* [Github Desktop](https://desktop.github.com) Eine Deskop Programm für Github. Einfach installieren und starten. Hier könnt ihr euch mit dem Github Account anmelden
-* [Git](https://git-scm.com/downloads) Damit ihr direkt aus PyCharm mit Github interagieren könnt. Installieren indem ihr einfach immer weiter drückt. Bis die installation abgeschossen ist.
+* [Git](https://git-scm.com/downloads) Damit ihr direkt aus PyCharm mit Github interagieren könnt. Installieren indem ihr einfach immer weiter drückt. Bis die Installation abgeschossen ist.
 * [PyCharm](https://www.jetbrains.com/pycharm-edu/download/index.html) Das ist euere Entwicklungsumgebung für Python. Auch nur runterladen und installieren, immer weiter drücken bis es installiert ist. Beim Einrichten von Python und Git helfe ich euch dann.
 
 ## Tutorials und Weiterführendes
