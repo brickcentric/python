@@ -45,7 +45,8 @@ Hinweis: Eine Funktion die ein `int` entgegennimmt und dann das jeweilige Spiels
 6. Gebt mal Zahlen wie `6` , `1000`, `hook` ein und schaut was passiert. Versucht jetzt Programmfehler durch Falscheingaben zu vermeinden und zeigt dem Spieler stattdessen entsprechende Fehlertexte an.
     1. Nur gültige Zahlen `1-4` erlauben.
     2. Nur das Sonderzeichen `x` erlauben 
-
+### Aufgabe 4: Game programming
+Hiermit möchte ich euch anleiten gemeinsam ein grafisches Jump & Run Game mit pygame zu entwicklen.[hier gehts los](hilfe/pygame.md) 
 
 ## Vorbereitung / Einrichtung
 1. Ihr solltet alle ein Account bei [Github](https://www.github.com) erstellen und mir euren Username zusenden.
