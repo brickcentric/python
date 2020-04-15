@@ -17,7 +17,12 @@ In PyCharm müsst ihr die Bibliothek `pygame` wie folgt hinzufügen.
 ![Project Interpreter auf + drücken ](img/pygame2.png)
 ### Aufgaben
 1. Versucht eine lauffähige Python Entwicklungsumgebung an den Start zu bringen, falls ihr dabei Probleme habt fragt jemanden aus der Gruppe oder mich per WhatsApp direkt Nachricht. Wir können dann bespielsweise ein Discord Meeting Termin vereinbaren.
-2. Lest euch bitte mal folgendes [Pygame Tutorial](https://www.spieleprogrammierer.de/wiki/Pygame-Tutorial) genau durch und versucht die Beispiele bei euch ans laufen zu bekommen. Für eine erste Einführung ist das hier auch sehr hilfreicht [Grundlage pygame](https://www.python-lernen.de/pygame-tutorial.htm) und das ist die offizelle Seite von [`pygame`](https://www.pygame.org). Für die youtube Fraktion gibt es auch ein umfangreiches YouTube Tutorial das ist auf Englisch [YouTube Tutorial](https://www.youtube.com/watch?v=i6xMBig-pP4)
+2. 
+* Lest euch bitte mal folgendes [Pygame Tutorial](https://www.spieleprogrammierer.de/wiki/Pygame-Tutorial) genau durch und versucht die Beispiele bei euch ans laufen zu bekommen. 
+* Für ine erste Einführung ist das hier auch sehr interessant [Grundlage pygame](https://www.python-lernen.de/pygame-tutorial.htm) 
+* Das ist die offizelle Seite von [`pygame`](https://www.pygame.org). 
+* Für die youtube Fraktion gibt es auch ein umfangreiches YouTube Tutorial aber auf Englisch [YouTube Tutorial](https://www.youtube.com/watch?v=i6xMBig-pP4)
+* Ein super Buch für euch gibt es hier in Englisch frei zugänglich [Create Computer Games](https://inventwithpython.com/invent4thed/) und auf Deutsch bei Amazon [Eigene Spiele programmieren](https://www.amazon.de/Eigene-Spiele-programmieren-spielerische-Programmiersprache/dp/3864904927)
 3. coming soon ;)
 
 
