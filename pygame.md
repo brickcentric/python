@@ -13,7 +13,8 @@ Folgende Lösungen würde ich vorschlagen:
 #### pygame
 Ihr benötigt eine vollstänig eingerichtete Entwicklungsumgebung für Python [(wie auf der Hauptseite beschrieben)](README.md) .
 In PyCharm müsst ihr die Bibliothek `pygame` wie folgt hinzufügen. 
-
+![Menu Preferences ](pygame1.png)
+![Project Interpreter auf + drücken ](pygame1.png)
 ### Aufgaben
 1. Versucht eine lauffähige Python Entwicklungsumgebung an den Start zu bringen, falls ihr dabei Probleme habt fragt jemanden aus der Gruppe oder mich per WhatsApp direct message. Wir können dann bespielsweise einen Termin Discord Meeting vereinbaren.
 2. Liest euch bitte mal folgendes [Pygame Tutorial](https://www.spieleprogrammierer.de/wiki/Pygame-Tutorial) genau durch und versucht die Beispiele bei euch ans laufen zu gekommen. 
