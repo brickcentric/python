@@ -16,13 +16,19 @@ In PyCharm müsst ihr die Bibliothek `pygame` wie folgt hinzufügen.
 ![Menu Preferences ](img/pygame1.png)
 ![Project Interpreter auf + drücken ](img/pygame2.png)
 ### Aufgaben
-1. Versucht eine lauffähige Python Entwicklungsumgebung an den Start zu bringen, falls ihr dabei Probleme habt fragt jemanden aus der Gruppe oder mich per WhatsApp direkt Nachricht. Wir können dann bespielsweise ein Discord Meeting Termin vereinbaren.
-2. 
+#### 1. Aufbau
+Versucht eine lauffähige Python Entwicklungsumgebung an den Start zu bringen, falls ihr dabei Probleme habt fragt jemanden aus der Gruppe oder mich per WhatsApp direkt Nachricht. Wir können dann bespielsweise ein Discord Meeting Termin vereinbaren.
+#### 2. Infos  
 * Lest euch bitte mal folgendes [Pygame Tutorial](https://www.spieleprogrammierer.de/wiki/Pygame-Tutorial) genau durch und versucht die Beispiele bei euch ans laufen zu bekommen. 
 * Für ine erste Einführung ist das hier auch sehr interessant [Grundlage pygame](https://www.python-lernen.de/pygame-tutorial.htm) 
 * Das ist die offizelle Seite von [`pygame`](https://www.pygame.org). 
 * Für die youtube Fraktion gibt es auch ein umfangreiches YouTube Tutorial aber auf Englisch [YouTube Tutorial](https://www.youtube.com/watch?v=i6xMBig-pP4)
 * Ein super Buch für euch gibt es hier in Englisch frei zugänglich [Create Computer Games](https://inventwithpython.com/invent4thed/) und auf Deutsch bei Amazon [Eigene Spiele programmieren](https://www.amazon.de/Eigene-Spiele-programmieren-spielerische-Programmiersprache/dp/3864904927)
-3. coming soon ;)
+#### 3. Lösung
+* Wir haben eine Lösung für die erste Spielenginee aus dem Tutorial hier hochgeladen: https://github.com/rednael05/runandjump
+* Ihr könnt das Pojekt einfach **forken** das heißt eine Kopie hiervon auf euerem Git Account anlegen. Dafür müsst ihr nur auf dem Repository oben rechts auf den Button `Fork` klicken und euren Account auswählen.
+* Dannach könnt ihr das Projekt aus eurem Github Repository nach Pycharm runterladen. Dafür müsst ihr in **eurem** Repository sein und auf den grünen Button `clone or download` klicken, diese URL kopieren und in Pycharm auf den Menüpunkt: VCS -> Get from Version Control... gehen. Die URL in das Feld `URL` einfügen und dann auf den Button `Clone` drücken.
+* Dannach solltet ihr das Projekt geöffent haben, was jetzt noch fehlt ist wie oben beschrieben die Bibliothek zu aktivieren.  
+* Nun könnt ihr rechte Maus auf die Datei `Launcher.py` `Run Launcher` ausführen und ihr solltet eine erste Zufallsmap sehen.
 
 
